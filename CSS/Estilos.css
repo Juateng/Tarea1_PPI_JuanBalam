@@ -1,8 +1,18 @@
 body{
  background-color:royalblue;
+ font-family: 'Protest Guerrilla', sans-serif;
 }
 
 .parrafo{
     background-color: rgb(3, 28, 66);
     color: white;
+    border-radius: 5%;
+    width: 100%;
+    padding: 15px;
+}
+
+.imagen{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
 }
